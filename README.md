@@ -1,6 +1,6 @@
 # CALO_PA-4
 
-
+## This repository focuses on data wrangling and data visualization using Python and Pandas. It involves filtering variables needed for our Programming Assignment 4 in ECE2112
 
 I. Intended Learning Outcomes
 At the end of this laboratory activity, the student should be able to:
