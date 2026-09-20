@@ -1,3 +1,7 @@
+CALO_PA-4
+This repository shows the use and function of panda in python. And sample problems are also provided for our Programming Assignment 3 in ECE2112
+
+
 I. Intended Learning Outcomes
 At the end of this laboratory activity, the student should be able to:
 1. filter tabular data using several categorical and numerical conditions;
